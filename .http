@@ -1,0 +1,3 @@
+POST http://localhost:8081/addstu
+Content-Type: application/json
+{"username":"ak","password":"asd","userType":"user"}

@@ -1,0 +1,32 @@
+{
+  "name": "backendbusproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilvelati/backendbusproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilvelati/backendbusproject/issues"
+  },
+  "homepage": "https://github.com/akhilvelati/backendbusproject#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-flash": "0.0.2",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
